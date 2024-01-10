@@ -27,6 +27,3 @@
   <a href="https://www.linkedin.com/in/devitorgabriel/" target="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--imBRhTaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" target="_blank"></a>
 </div>
 
-##
-
-![snake gif](https://github.com/dev-vitor-gabriel/dev-vitor-gabriel/blob/output/github-contribution-grid-snake.svg)
