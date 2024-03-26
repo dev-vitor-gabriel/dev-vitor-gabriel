@@ -10,7 +10,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Vitor-Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="Vitor-CodeIgniter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
   <img align="center" alt="Vitor-Javascripr" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Vitor-Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
